@@ -1,0 +1,14 @@
+* [33mfd0ef58[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdevelop[m[33m, [m[1;31morigin/develop[m[33m)[m update3
+* [33mf9b0e23[m pom
+*   [33mb36cac8[m Merge pull request #3 from QuyKHMTutc/feature/repository
+[32m|[m[33m\[m  
+[32m|[m * [33m7929a62[m 3.repository
+* [33m|[m [33mac3c8f0[m Merge pull request #2 from QuyKHMTutc/feature/controller
+[34m|[m[33m\[m[33m|[m 
+[34m|[m * [33m51c67f9[m 2.controller
+* [35m|[m [33m65806eb[m Merge pull request #1 from QuyKHMTutc/feature/model
+[36m|[m[35m\[m[35m|[m 
+[36m|[m * [33mf305dab[m 1.model
+[36m|[m[36m/[m  
+* [33me941ef8[m code o day
+* [33m1b7d9f2[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m first commit
